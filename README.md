@@ -64,10 +64,10 @@ Performance analysis of key acquisition channels:
   ---
   
 * 🧪 **SQL Data Inspection & Quality Checks**
-  Queries available here: *(Add GitHub link)*
+  Queries available in *SQL* folder
 
 * 🧹 **SQL Data Cleaning & Transformation Scripts**
-  Queries available here: *(Add GitHub link)*
+  Queries available in *SQL* folder
 
 ---
 
