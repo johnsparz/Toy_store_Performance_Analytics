@@ -188,6 +188,7 @@ Increase investment in **high-intent channels**:
 * Direct
 * Google Search
 * Bing Search
+  
   These channels demonstrate stronger conversion efficiency and revenue impact.
 
 ---
