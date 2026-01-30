@@ -49,8 +49,20 @@ Performance analysis of key acquisition channels:
 ## 📊 Deliverables
 
 * 📥 **Interactive Power BI Dashboard**
-  Download here: *(Add Power BI link)*
+  Download here:
+  
+  *(https://testfutaedu-my.sharepoint.com/:u:/g/personal/arijecss169964_futa_edu_ng/IQCmDUr6J1NISa95nr-5wTAHAUyq1a-_2ZvUecNvGZJUoes?e=9wUvZy)*
+  
+  ---
+  
+  *(https://testfutaedu-my.sharepoint.com/:u:/g/personal/arijecss169964_futa_edu_ng/IQCGLjT5C7xvTLP9__FMMT0SAVKnZCpPnbYUFFuNRSCsci4?e=2wlzhx)*
+  
+   ---
+  
+  *(https://testfutaedu-my.sharepoint.com/:u:/g/personal/arijecss169964_futa_edu_ng/IQDJUayTiq7DQb1OVZxUOTo7AT1U_RnUNYG1zdWyfZVB-eU?e=zW9guD)*
 
+  ---
+  
 * 🧪 **SQL Data Inspection & Quality Checks**
   Queries available here: *(Add GitHub link)*
 
@@ -211,8 +223,6 @@ Personalize experiences by:
 * Traffic source
 * User type (new vs repeat)
   to improve conversion performance.
-
----
 
 
 
